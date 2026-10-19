@@ -1,4 +1,4 @@
-# practice00
+# practice
 My data analysis projects on Social Media Usage vs Student Performance
 
 ## 1. Problem / Research Question
@@ -37,5 +37,10 @@ My data analysis projects on Social Media Usage vs Student Performance
 
 ## 6. Visualization
 ![Social Media Dashboard](social_media_dashboard.png)
+*Figure 1: Comprehensive dashboard.*
 
-*Figure: Scrolling Away Success: How Social Media Erodes Academic Performance. (Top-left: screen time vs scores; Top-right: screen time vs study hours; Bottom-left: screen time vs well-being; Bottom-right: study hours vs scores).*
+![Visualization 2](visualization_1.png)
+*Figure 2: Detailed view of screen time vs. exam scores.*
+
+![Visualization 3](visualization_2.png)
+*Figure 3: Detailed view of screen time vs. study hours.*
