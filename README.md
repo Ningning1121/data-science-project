@@ -37,10 +37,10 @@ My data analysis projects on Social Media Usage vs Student Performance
 
 ## 6. Visualization
 ![Social Media Dashboard](social_media_dashboard.png)
-*Figure 1: Comprehensive dashboard.*
+*Figure 1: Comprehensive dashboard showing the chain of relationships.*
 
-![Visualization 2](visualization_1.png)
-*Figure 2: Detailed view of screen time vs. exam scores.*
+![Scores vs Social Media](fig1_scores.png)
+*Figure 2: Detailed view of daily social media hours vs. exam scores.*
 
-![Visualization 3](visualization_2.png)
-*Figure 3: Detailed view of screen time vs. study hours.*
+![Study Hours vs Social Media](fig2_study.png)
+*Figure 3: Detailed view of daily social media hours vs. study hours.*
